@@ -23,7 +23,7 @@
   <img src="https://i0.wp.com/newspack-yucatan.s3.amazonaws.com/uploads/2024/08/IMG-50439259.jpg?w=1200&ssl=1" alt="Perros Callejeros" />
   <img src="https://i0.wp.com/newspack-yucatan.s3.amazonaws.com/uploads/2024/08/IMG-50439259.jpg?w=1200&ssl=1" alt="Perros Callejeros" />
   <p>juntos, podemos crear un entorno más seguro y comprensivo para todos los seres vivos y asegurarnos de que nuestro Pueblo Mágico sea un lugar donde la violencia hacia los animales sea inaceptable y se castigue con severidad..</p>
-  <p>Visita mi sitio favorito: <a href="file:///D:/LAP-MSI/Downloads/crash%20bandicoot%20N%20DIMEN.html" target="_blank">Crash Bandicoot</a></p>
+  
 </body>
 </body>
 </html>
